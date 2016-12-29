@@ -1,0 +1,27 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular-resource": "^1.6.1",
+    "body-parser": "^1.15.2",
+    "browser-sync": "^2.18.5",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-inject": "^4.2.0",
+    "gulp-minify": "0.0.14",
+    "gulp-nodemon": "^2.2.1",
+    "helmet": "^3.1.0",
+    "wiredep": "^4.0.0"
+  }
+}
