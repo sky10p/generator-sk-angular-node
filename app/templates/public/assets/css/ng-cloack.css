@@ -1,0 +1,11 @@
+[ng-cloak]{
+	display: none;
+}
+
+[ng-cloak].splash{
+	display: block !important;
+}
+
+.splash{
+	display: none;
+}
